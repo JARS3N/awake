@@ -1,5 +1,5 @@
 Package: awake
-Title: Common Instrument Well Plate Testing Configurations
+Title: awake
 Version: 0.0.0.0000
 Authors@R: person("jars3n", email = "jars3n@gmail.com", role = c("aut", "cre"))
 Description: no sleeps
