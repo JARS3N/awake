@@ -2,7 +2,7 @@ Package: awake
 Title: Common Instrument Well Plate Testing Configurations
 Version: 0.0.0.0000
 Authors@R: person("jars3n", email = "jars3n@gmail.com", role = c("aut", "cre"))
-Description: Well Plate Configs
+Description: no sleeps
 Depends: R (>= 3.0.0)
 License: GPL
 Encoding: UTF-8
