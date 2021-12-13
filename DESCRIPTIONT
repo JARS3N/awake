@@ -1,0 +1,7 @@
+Package: awake
+Type: Package
+Title: Doesn't go to sleep
+Version: 0.1.0
+Author: ???
+Encoding: UTF-8
+LazyData: true
